@@ -1,0 +1,33 @@
+[
+    {
+        "image":"../images/awards/13112022_Lalitpur.jpg",
+        "title":"2022: Mahakavi Acharya Shri Vidya Sagar Saptam Puraskar",
+        "short_discription":"On 13 November, 2022",
+        "description":"Ceremony took place at Lalitpur Kshetrapal Jain temple"
+    }, {
+        "image":"../images/awards/rj_vividh_2015.jpg",
+        "title":"2015: Vividh Puraskar",
+        "short_discription":"Uttar Pradesh Sanskrit Sansthan, Lucknow.",
+        "description":"Awarded by Uttar Pradesh Sanskrit Sansthan, Lucknow"
+    }, {
+        "image":"../images/awards/shrut_2022.jpg",
+        "title":"2022: Tridivshiya Rashtriya Sanghosthi",
+        "short_discription":"Prakrit Bhasha itihaas aur Sambhavnayein",
+        "description":"Guru Sudarshan Janm Shatabdi Varsh Samiti, Shrut Ratnakar Dwara."
+    }, {
+        "image":"../images/awards/rj_upss_lko_2013.jpg",
+        "title":"2013: Vishesh Puraskar",
+        "short_discription":"Uttar Pradesh Sanskrit Sansthan, Lucknow",
+        "description":"Uttar Pradesh Sanskrit Sansthan dwara sammanit"
+    }, {
+        "image":"../images/awards/rj_upss_lko_2011.jpg",
+        "title":"2011: Vividh Puraskar",
+        "short_discription":"Uttar Pradesh Sanskrit Sansthan, Lucknow",
+        "description":"Uttar Pradesh Sanskrit Sansthan dwara sammanit"
+    }, {
+        "image":"../images/awards/abdjv_2003.jpg",
+        "title":"2003: Guruvar Pandit Gopaldas Variya Smriti Vidyut Parishad Puraskar",
+        "short_discription":"Shri Akhil Bharatuya Digambar Jain Vidyut Parishad",
+        "description":"Shri Akhil Bharatuya Digambar Jain Vidyut Parishad dwara sammanit."
+    }
+]

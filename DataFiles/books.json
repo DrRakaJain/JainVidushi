@@ -1,0 +1,100 @@
+[
+  {
+    "image": "../images/books/JainDarshanKhand_Vol10_DSA.jpg",
+    "name": "Jain Darshan Khand Volume 10",
+    "description": "Published By Delhi Sanskrit Academy",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/PrakritSuktiKosh.jpg",
+    "name": "Prakrit Sukti Kosh",
+    "description": "Sankalankatri Evam Anuvadika",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/ShramanaCulture.jpg",
+    "name": "Shramana Culture",
+    "description": "Maitree Publications",
+    "writer": "Dr. Raka Jain & Prof. Vijay Kumar Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/JainSanskritiKeVividhAayam.jpg",
+    "name": "Jain Sanskriti Ke Vividh Aayaam",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/JeevandharChampuSaurabh.jpg",
+    "name": "Jeevandhar Champu Saurabh",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/TatwarthSutraSaurabh.jpg",
+    "name": "Tatwaarthsutra Saurabh",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/KavyaKamlanjali.jpg",
+    "name": "Kavya Kamlanjali",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/ChattaroJamayaro.jpg",
+    "name": "Chattaro Jamayaro",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/PrakritiPareeksha.jpg",
+    "name": "Parakriti Pareeksha",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/VigrahvyaVartini.jpg",
+    "name": "Vigraha Vya Vartini",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/MansBhakshanParivartana.jpg",
+    "name": "Mans Bhakshan Parivartana",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/SuttiNipatPali.jpg",
+    "name": "Sutii Nipat Pali",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/ShikshaSamucchayaKarika.jpg",
+    "name": "Shiksha Samucchaya Karika",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  },
+  {
+    "image": "../images/books/Satrayekam.jpg",
+    "name": "Satra Yekam",
+    "description": "Description Here",
+    "writer": "Dr. Raka Jain",
+    "download": "Soft Copy Not Available"
+  }
+]
